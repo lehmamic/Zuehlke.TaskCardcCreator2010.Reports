@@ -1,0 +1,6 @@
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Release\Zühlke.TaskCardCreator.Reports.ScrumDescription.pdb
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Release\Template.g.cs
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Release\Zühlke.TaskCardCreator.Reports.ScrumDescription_MarkupCompile.cache
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Release\Zühlke.TaskCardCreator.Reports.ScrumDescription_MarkupCompile.lref
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Release\Zühlke.TaskCardCreator.Reports.ScrumDescription.csprojResolveAssemblyReference.cache

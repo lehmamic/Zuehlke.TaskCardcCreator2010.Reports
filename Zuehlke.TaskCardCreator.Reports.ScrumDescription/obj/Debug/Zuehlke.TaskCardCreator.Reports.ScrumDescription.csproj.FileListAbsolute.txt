@@ -1,0 +1,17 @@
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\bin\Debug\Zuhlke.TaskCardCreator.Reports.ScrumDescription.dll
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\bin\Debug\Zuhlke.TaskCardCreator.Reports.ScrumDescription.pdb
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\bin\Debug\ReportingFramework.dll
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\bin\Debug\WorkItemReportInterface.dll
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Debug\Template.g.cs
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Debug\Zuhlke.TaskCardCreator.Reports.ScrumDescription_MarkupCompile.cache
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Debug\Zuhlke.TaskCardCreator.Reports.ScrumDescription_MarkupCompile.lref
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Debug\Template.baml
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Debug\Zuhlke.TaskCardCreator.Reports.ScrumDescription.g.resources
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Debug\Zuhlke.TaskCardCreator.Reports.ScrumDescription.Properties.Resources.resources
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Debug\Zuehlke.TaskCardCreator.Reports.ScrumDescription.csproj.GenerateResource.Cache
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Debug\Zuhlke.TaskCardCreator.Reports.ScrumDescription.dll
+C:\Data\TFS\Zühlke\Zühlke.TaskCardCreator.Reports\Zühlke.TaskCardCreator.Reports.ScrumDescription\obj\Debug\Zuhlke.TaskCardCreator.Reports.ScrumDescription.pdb
